@@ -6,7 +6,7 @@ Features
 - Search for specific Pokemon by type
 
 # Technologies Used
-React
-PokeAPI (https://pokeapi.co/)
-HTML5
-CSS3
+- React,
+- PokeAPI (https://pokeapi.co/)
+- HTML5
+- CSS3
